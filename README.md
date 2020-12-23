@@ -9,3 +9,5 @@ The notebook funcx-classify-and-check.ipynb demonstrates the BERT classifier as 
 funcx-on-azure-k8s.ipynb is the set of experiments that measure the performance of the BERT classifier running on a small 5 node kubernetes cluster.
 
 funcx-jetson.ipynb demonstrates running a funcx end point on a little jetson edge computing device.  
+
+aws-sqs-example-final is the demo of streaming components with funcx
