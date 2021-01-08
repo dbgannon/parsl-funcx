@@ -11,3 +11,5 @@ funcx-on-azure-k8s.ipynb is the set of experiments that measure the performance 
 funcx-jetson.ipynb demonstrates running a funcx end point on a little jetson edge computing device.  
 
 aws-sqs-example-final is the demo of streaming components with funcx
+
+the files interact-with-function-final files are the examples that show how to interact via queues with a function body.   the showpicture programs are the client apps..
